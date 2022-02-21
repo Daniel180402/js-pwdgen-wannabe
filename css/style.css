@@ -1,0 +1,9 @@
+.text-box{
+    width: 600px;
+    height: 150px;
+    transition: all .5s ease-in-out;
+}
+
+.text-box:hover{
+    box-shadow: 8px 4px 4px black
+}
